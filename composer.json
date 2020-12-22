@@ -1,0 +1,15 @@
+{
+    "name": "techdeck/password-hash",
+    "description": "password hashing algorithm",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Raymond Herndon",
+            "email": "rherndon@starsacramento.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"techdeck\\passwordHash\\": "src/"}
+    }
+}
